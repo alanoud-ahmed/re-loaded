@@ -13,6 +13,10 @@ func fixArticles(text string) string {
 			continue
 		}
 
+		if strings.Trim(words[index], "'\"([{") != article {
+			continue
+		}
+
 		nextWord := ""
 		for nextIndex := index + 1; nextIndex < len(words); nextIndex++ {
 			nextWord = cleanTextWord(words[nextIndex])

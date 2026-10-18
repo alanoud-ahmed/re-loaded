@@ -1,0 +1,29 @@
+Line 1: "word" is not a valid hexadecimal number
+Line 2: "word" is not a valid binary number
+Line 3: "102" is not a valid binary number
+Line 4: "hello" is not a valid hexadecimal number
+Line 5: "(up)" has no word before it
+Line 6: invalid number 0 in "(up,0)"
+Line 7: invalid number 0 in "(low,0)"
+Line 8: invalid number 0 in "(cap,0)"
+HELLO world.
+Hello world.
+-1 -5.
+-255.
+hello (up
+hello up)
+HELLO).
+Line 16: invalid command "(up)"
+Line 17: invalid command "(up)"
+hello (unknown).
+Update (up to date) now
+Bahrain (capital city) is nice
+(binary) and (hexagon)
+Line 22: invalid command "(up,abc)"
+Line 23: invalid command "(up,2.5)"
+Line 24: invalid command "(up,-abc)"
+Line 25: invalid command "(hex,2)"
+Line 26: invalid command "(bin,-1)"
+Line 27: invalid command "(up,,2)"
+Line 28: invalid command "(up,+2)"
+Line 29: "hello" is not a valid hexadecimal number

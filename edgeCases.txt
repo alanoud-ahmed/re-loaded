@@ -1,0 +1,29 @@
+word (hex) next.
+word (bin) next.
+102 (bin).
+hello (hex).
+(up) hello.
+hello (up, 0) world.
+hello (low, 0) world.
+hello (cap, 0) world.
+hello (up, -1) world.
+hello (cap, -2) world.
+-1 (hex) -101 (bin).
+-FF (hex).
+hello (up
+hello up)
+hello (up)).
+hello ((up)).
+hello ((up).
+hello (unknown).
+Update (up to date) now
+Bahrain (capital city) is nice
+(binary) and (hexagon)
+hello (up, abc).
+hello (up, 2.5).
+hello (up, -abc).
+hello (hex, 2).
+hello (bin, -1).
+hello (up,,2).
+hello (up, +2).
+hello (hex) (bin).
